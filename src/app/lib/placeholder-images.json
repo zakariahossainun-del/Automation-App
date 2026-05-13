@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "android-screen",
+      "description": "A simulation of an Android home screen",
+      "imageUrl": "https://picsum.photos/seed/android-sim-7262/400/800",
+      "imageHint": "android phone"
+    },
+    {
+      "id": "app-icon-settings",
+      "description": "Settings app icon",
+      "imageUrl": "https://picsum.photos/seed/settings-icon-7262/64/64",
+      "imageHint": "settings icon"
+    }
+  ]
+}
